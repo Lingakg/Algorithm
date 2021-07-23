@@ -1,0 +1,33 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "整理一些算法知识点练习，有来自书上、力扣、工作中等等，分为几种算法类型和难易程度展开练习实践，加油！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lingakg/algorithm.git"
+  },
+  "keywords": [
+    "算法",
+    "typescript",
+    "面试",
+    "力扣"
+  ],
+  "author": "chenwanlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lingakg/algorithm/issues"
+  },
+  "homepage": "https://github.com/Lingakg/algorithm#readme",
+  "devDependencies": {
+    "@types/chai": "^4.2.21",
+    "@types/jest": "^26.0.24",
+    "@types/mocha": "^9.0.0",
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2",
+    "ts-node": "^10.1.0"
+  }
+}
